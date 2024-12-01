@@ -1,0 +1,11 @@
+INDEX VERSION 1.134
+C:\pleiades\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2401708307.index
+\webapp\src\main\java
+C:\pleiades\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1185267851.index
+\webapp02\src\main\java
+C:\pleiades\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2215697107.index
+\chirami\src\main\java
+C:\pleiades\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\380294470.index
+\webapp02\src\main\java
+C:\pleiades\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2703712743.index
+\webapp\src\main\java

@@ -1,0 +1,16 @@
+127.0.0.1 - - [26/Nov/2024:21:15:11 +0900] "GET / HTTP/1.1" 404 896
+0:0:0:0:0:0:0:1 - - [26/Nov/2024:21:15:11 +0900] "GET /chirami/WEB-INF/classes/controller/ShainIndex.java HTTP/1.1" 404 803
+0:0:0:0:0:0:0:1 - - [26/Nov/2024:21:15:11 +0900] "GET /favicon.ico HTTP/1.1" 404 907
+0:0:0:0:0:0:0:1 - - [26/Nov/2024:21:16:13 +0900] "GET /chirami/ShainIndex HTTP/1.1" 404 918
+127.0.0.1 - - [26/Nov/2024:21:17:16 +0900] "GET / HTTP/1.1" 404 896
+0:0:0:0:0:0:0:1 - - [26/Nov/2024:21:17:39 +0900] "GET /chirami/WEB-INF/classes/controller/ShainIndex.java HTTP/1.1" 404 803
+0:0:0:0:0:0:0:1 - - [26/Nov/2024:21:17:54 +0900] "GET /chirami/ShainIndex HTTP/1.1" 404 918
+127.0.0.1 - - [26/Nov/2024:21:21:44 +0900] "GET / HTTP/1.1" 404 896
+0:0:0:0:0:0:0:1 - - [26/Nov/2024:21:21:44 +0900] "GET /chirami/WEB-INF/classes/model/ShainLogic.java HTTP/1.1" 404 803
+0:0:0:0:0:0:0:1 - - [26/Nov/2024:21:22:14 +0900] "GET /chirami/ShainIndex HTTP/1.1" 200 214
+0:0:0:0:0:0:0:1 - - [26/Nov/2024:21:25:47 +0900] "GET /chirami/ShainIndex HTTP/1.1" 200 214
+0:0:0:0:0:0:0:1 - - [26/Nov/2024:21:26:19 +0900] "GET /chirami/ShainIndex HTTP/1.1" 200 214
+127.0.0.1 - - [26/Nov/2024:21:53:36 +0900] "GET / HTTP/1.1" 404 896
+172.25.128.1 - - [26/Nov/2024:22:52:54 +0900] "GET / HTTP/1.1" 404 896
+172.25.128.1 - - [26/Nov/2024:22:53:03 +0900] "GET /HNAP1/ HTTP/1.1" 404 906
+172.25.128.1 - - [26/Nov/2024:22:53:03 +0900] "GET / HTTP/1.1" 404 896
